@@ -4,8 +4,8 @@ const { cmd, getRandomInt } = require('../lib');
 
 const quizQuestions = [
     {
-        question: "What is the capital of France?",
-        options: ["A. London", "B. Berlin", "C. Paris"],
+        question: "What is the capital of Pakistan?",
+        options: ["A. London", "B. Islamabad", "C. Paris"],
         correctAnswer: "C"
     },
     {
@@ -14,20 +14,20 @@ const quizQuestions = [
         correctAnswer: "B"
     },
     {
-        question: "The first iPhone was made in what year?",
+        question: "The first iPhone was made in?",
         options: ["A. 2004", "B. 2007", "C. 2012"],
         correctAnswer: "B"
     },
 
     {
-        question: "WHO IS THE OWNER OF IZUKU?",
-        options: ["A. EO", "B. SP", "C. SL"],
+        question: "How cute is bot developer?",
+        options: ["A. 100 percent", "B. 150 percent", "C. 200 percent"],
         correctAnswer: "A"
     },
 
     {
-        question: "IZUKU IS MADE FROM WHAT LANGUAGE ?",
-        options: ["A. NODE", "B. JAVA", "C. REACT"],
+        question: " Select programming language?",
+        options: ["A. C++", "B. Windows", "C. Linux"],
         correctAnswer: "A"
     },
     
@@ -38,7 +38,7 @@ const quizQuestions = [
     },
 
     {
-        question: "how old is excel😕?",
+        question: "How old is excel😕?",
         options: ["A. 21", "B. 15", "C. 17"],
         correctAnswer: "C"
     },
